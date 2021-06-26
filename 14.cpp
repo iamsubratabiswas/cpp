@@ -1,3 +1,5 @@
+ //Check if the above inline add function takes more or less time than a non-inline version of add function.
+
 #include <iostream>
 #include <chrono>
 

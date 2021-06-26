@@ -1,3 +1,9 @@
+//Function Overloading
+//  Consider the following two scenarios:
+// a) We want to find out the maximum between three integers.
+// b) We also want to find out the maximum element of an array of integers.
+// Write two overloaded functions for these two scenarios.
+
 #include <iostream>
 
 using namespace std;

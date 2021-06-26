@@ -1,3 +1,15 @@
+// Inheritance
+// Implement the Shape hierarchy as shown in the figure. Each TwoDShape should contain function getArea to
+// calculate the area of two-dimensional shape. Each ThreeDShape should have member functions getArea and
+// getVolume to calculate the surface area and volume of the three-dimensional shape respectively. Create a
+// program that uses Vector of Shape pointers to objects of each concrete class in the hierarchy. Now write a
+// program that processes all the shapes in the Vector such that if the shape is a TwoDShape it prints name of shape
+// and its area while it prints name of shape, its area and volume if the shape is a ThreeDShape.
+
+// (Cir:cle,Train:gle,Ellip:se) ---> TwoDSh ----Shape --- ThreeDSh <--- (Shape:re,Cu:be)
+//                              ape                                 ape
+
+
 #include <cmath>
 #include <iostream>
 #include <vector>

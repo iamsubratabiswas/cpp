@@ -1,3 +1,8 @@
+// Classes and Objects
+// 18. Write a simple class that represents a class of geometrical points each of which has three coordinates. The class
+// should have appropriate constructor(s). Also add a m:!ember function distance() that calculates Euclidian
+// distance between two points. Now create two points, find the distance between them and print it.
+
 #include <iostream>
 #include <cmath>
 

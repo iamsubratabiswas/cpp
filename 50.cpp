@@ -1,3 +1,9 @@
+// Templates
+//  Write a template function swap() that is capable of interchanging the values of two variables. Used this function
+// to swap (i) two integers, (ii) two complex numbers (previous code may be reused). Now write a specialized
+// template function for the class Stack (previous code may be reused). Also swap two stacks using this template
+// function
+
 #include <cmath>
 #include <iostream>
 

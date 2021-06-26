@@ -1,3 +1,15 @@
+// Classes and Objects
+//  Write the definition for a class called Complex that has private floating point data members for storing real and
+// imaginary parts. The class has the following public member functions:
+// setReal() and setImg() to set the real and imaginary part respectively.
+// getReal() and getImg() to get the real and imaginary part respectively.
+// disp() to display complex number object
+// sum() to sum two complex numbers & return a complex number
+// Write main function to create three complex number objects. Set the value in two objects and call sum() to
+// calculate sum and assign it in third object. Display all complex numbers.
+
+
+
 #include <iostream>
 
 using namespace std;

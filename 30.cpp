@@ -1,3 +1,7 @@
+// Operator Overloading
+// Write a class “Point” which stores coordinates in (x, y) form. Define necessary constructor, destructor and other
+// reader/writer functions. Now overload ‘-’ operator to calculate the distance between two points.
+
 #include <cmath>
 #include <iostream>
 

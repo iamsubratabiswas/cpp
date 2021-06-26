@@ -1,3 +1,6 @@
+// Inline function
+// Write an inline function add() that takes three integer arguments and returns the sum of these arguments
+
 #include <iostream>
 
 using namespace std;

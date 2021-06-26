@@ -1,3 +1,5 @@
+//Enumeration values
+
  #include <iostream>
 
 using namespace std;

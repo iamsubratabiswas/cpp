@@ -1,3 +1,5 @@
+//Inline function and macro
+
 // C++ program to illustrate macros 
 #include <iostream>
 

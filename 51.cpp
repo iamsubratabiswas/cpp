@@ -1,3 +1,8 @@
+// Templates
+//  Create a C++ template class for implementation of Stack data structure. Create a Stack of integers and a Stack of
+// complex numbers created earlier (code may be reused). Perform some push and pop operations on these stacks.
+// Finally print the elements remained in those stacks.
+
 #include <cmath>
 #include <iostream>
 

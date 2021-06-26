@@ -1,3 +1,6 @@
+// The use of scope resolution operator (::)
+
+
  #include <iostream>
 
 using namespace std;

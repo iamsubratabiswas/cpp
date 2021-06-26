@@ -1,3 +1,9 @@
+// Inheritance
+// Write empty class declarations for the following class hierarchy.
+// A<----D--->B<----E--->C
+//       ^\       /^
+//            F
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,7 @@
+// Classes and Objects
+// Write a class for the geometrical shape rectangle. Write suitable constructors and member functions. Add a
+// member function area() that calculates the area of a rectangle. Create 4 rectangles and print their respective area
+
 #include <iostream>
 
 using namespace std;

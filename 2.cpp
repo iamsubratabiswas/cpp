@@ -1,3 +1,6 @@
+// Write a program that accepts two integers from keyboard,
+//  adds them and prints their values. Use cin and cout.
+
 #include <iostream>
 
 using namespace std;

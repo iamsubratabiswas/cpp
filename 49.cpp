@@ -1,3 +1,9 @@
+// Templates
+// Write a template function max() that is capable of finding maximum of two things (that can be compared). Used
+// this function to find (i) maximum of two integers, (ii) maximum of two complex numbers (previous code may be
+// reused). Now write a specialized template function for strings (i.e. char *). Also find the maximum of two strings
+// using this template function
+
 #include <string.h>
 #include <cmath>
 #include <iostream>

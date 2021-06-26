@@ -1,3 +1,13 @@
+// Classes and Objects
+//  Write a class for your Grade card. The grade card is given to each student of a department per semester. The
+// grade card typically contains the name of the department, name of the student, roll number, semester, a list of
+// subjects with their marks and a calculated CGPA. Create 60 such grade cards in a 3
+// rd semester with relevant data
+// and find the name and roll number of student having highest CGPA.
+
+
+
+
 #include <iostream>
 
 using namespace std;

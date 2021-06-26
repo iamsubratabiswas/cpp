@@ -1,3 +1,13 @@
+// Operator Overloading
+//  Design and implement class(es) to support the following code segment.
+// Table t(4, 5), t1(4, 5);
+// cin >> t;
+// t[0][0] = 5;
+// int x = t[2][3];
+// t1 = t;
+// cout << t << “\n” << t1;
+
+
 #include <iostream>
 
 using namespace std;

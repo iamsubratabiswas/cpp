@@ -1,3 +1,7 @@
+// Constants and references
+//  Write a function that takes an integer and returns the factorial of that number. Declare function parameter as read
+// only reference. Call the function with some argument from main function, store the result and print it.
+
 #include <iostream>
 
 using namespace std;

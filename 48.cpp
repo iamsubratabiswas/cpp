@@ -1,3 +1,8 @@
+// Exception Handling
+//  Vehicles may be either stopped of running in a lane. If two vehicles are running in opposite direction in a single
+// lane there is a chance of collision. Write a C++ program using exception handling to avoid collisions. You are
+// free to make necessary assumptions
+
 #include <iostream>
 
 using namespace std;

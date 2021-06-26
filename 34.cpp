@@ -1,3 +1,13 @@
+// Operator Overloading
+//  Design and implement class(es) to support the following main program.
+// int main() {
+// IntArray i(10);
+// for(int k = 0; k < 10; k++)
+// i[k] = k;
+// cout << i;
+// return 0;
+// }
+
 #include <iostream>
 
 using namespace std;

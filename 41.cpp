@@ -1,3 +1,13 @@
+// Inheritance
+// Write a class Person having data member name, age, height etc. Write proper constructors, methods to get/set
+// them and a method printDetails() that prints all information of a person. Now write another class Student from
+// Person and add data members roll, year of admission etc. Write constructors, methods to get/set them and a
+// override printDetails(). Now create a Person and a Student object and call printDetails() function on them to
+// display their information.
+// Now Create an array of pointers to Person and store addresses of two Persons and two Students. Call
+// printDetails() on all elements (a loop may be used). Are you getting output which is supposed to come? Make
+// printDetails() function virtual in the base class and check the result.
+
 #include <iostream>
 
 using namespace std;

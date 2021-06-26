@@ -1,3 +1,7 @@
+//Default values for function parameters
+// Consider function add() in 3. Specify the default values for second and third parameters to 0 (zero). Now call this
+// function with three, two and one arguments and see the result.
+
 #include <iostream>
 
 using namespace std;

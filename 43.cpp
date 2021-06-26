@@ -1,3 +1,14 @@
+// Inheritance
+//  Write class definitions for the following class hierarchy
+//   Circle--> Shape2D <---Rectangle
+// The Shape2D class represents two dimensional shapes that should have pure virtual functions area(), perimeter()
+// etc. Implement these functions in Circle and Rectangle. Also write proper constructor(s) and other functions you
+// think appropriate in the Circle and Rectangle class. Now create an array of 5 Shape2D pointers. Create 3 Circle
+// and 2 Rectangles objects and place their addresses in that array. Use a loop to print area and perimeter of all
+// shapes on this array.
+
+
+
 #include <iostream>
 
 using namespace std;

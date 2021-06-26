@@ -1,3 +1,13 @@
+// Create a factorial table using cout as follows:
+// 1! = 1
+// 2! = 2
+// 3! = 6
+// …
+// 6! = 720
+
+
+
+
 #include <iostream>
 
 using namespace std;

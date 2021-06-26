@@ -1,3 +1,9 @@
+// Classes and Objects
+// . Write a class Vector for one dimensional array. Write suitable constructor/copy constructor. Also add member
+// functions for perform basic operations (such as addition, subtraction, equality, less, greater etc.). Create vectors
+// and check if those operations are working correctly.
+
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,8 @@
+// Inheritance
+//  Write a program to illustrate the role of virtual destructor.
+
+
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,6 @@
+// ) Flexible variable declaration
+
+
 #include <iostream>
 
 using namespace std;

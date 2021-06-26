@@ -1,3 +1,8 @@
+// Inheritance
+// Write empty class declarations for the following class hierarchy.
+//  Base1 <--- Derived -----> Base2
+ 
+
 #include <iostream>
 
 using namespace std;

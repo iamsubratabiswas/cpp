@@ -1,3 +1,7 @@
+// Exception Handling
+//  Two integers are taken from keyboard. Then perform division operation. Write a try block to throw an exception
+// when division by zero occurs and appropriate catch block to handle the exception thrown.
+
 #include <iostream>
 
 using namespace std;

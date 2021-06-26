@@ -1,3 +1,19 @@
+// Classes and Objects
+// Complete the class with all function definitions for a circular queue
+// class Queue {
+// int *data;
+// int front, rear;
+// public :
+// Queue(int ); //create queue with specified size
+// void add(int); //add specified element to the queue
+// int remove();//delete element from the queue
+// void disp(); //displays all elements in the queue(front to rear order)
+// }
+// Now, create a queue with size 10 add 2, 3, 4 and 5 in that order and finally delete two elements. Display
+// elements present in the stack.
+
+
+
 #include <iostream>
 
 using namespace std;

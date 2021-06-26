@@ -1,3 +1,12 @@
+// Classes and Objects
+// . Write a class that represents a class of wireless device. A device has a location (point object may be used), a
+// fixed unique id, and a fixed circular transmission range. Write suitable constructors and member functions for
+// this class. Instantiates 10 such devices. Choose location (coordinates) and transmission range of the devices
+// randomly. Now, for each of these devices, find the neighbor devices (i.e. devices that belong to the transmission
+// range). Suppose, all of these devices have moved to a new location (randomly chosen). Find out the new set of
+// neighbors for each of these devices.
+
+
 #include <iostream>
 #include <time.h>
 #include <cmath>

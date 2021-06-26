@@ -1,3 +1,4 @@
+//C++ style type names
 
 
 #include <bits/stdc++.h> 
